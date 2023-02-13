@@ -1,2 +1,3 @@
-redirection commands
+#!/bin/bash
+print “Hello, World”
 
